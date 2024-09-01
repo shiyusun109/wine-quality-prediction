@@ -10,6 +10,21 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+ /* static/css2/style.css */
+
+ .form-v9-content {
+   background-image: url('static/assets/img/bg.jpg');
+   /* Update path if changing image */
+   background-color: #380651;
+   /* Solid color if not using an image */
+   background-size: cover;
+   /* Ensures the image covers the whole element */
+   background-repeat: no-repeat;
+   /* Prevents the image from repeating */
+ }
+
+
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;

@@ -99,20 +99,20 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
 	1. EC2 access : It is virtual machine
 
-	2. ECR: Elastic Container registry to save your docker image in aws
+	2. ECR: Elastic Container registry to save the docker image in aws
 
 
 	#Description: About the deployment
 
 	1. Build docker image of the source code
 
-	2. Push your docker image to ECR
+	2. Push docker image to ECR
 
-	3. Launch Your EC2 
+	3. Launch EC2 
 
-	4. Pull Your image from ECR in EC2
+	4. Pull image from ECR in EC2
 
-	5. Lauch your docker image in EC2
+	5. Lauch docker image in EC2
 
 	#Policy:
 
@@ -122,7 +122,7 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 566373416292.dkr.ecr.ap-south-1.amazonaws.com/mlproj
+    - Save the URI: 522814737207.dkr.ecr.us-east-2.amazonaws.com/mlproj
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
