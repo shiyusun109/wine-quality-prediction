@@ -76,16 +76,7 @@ with mlflow.start_run():
 
 ```
 
-Run this to export as env variables:
 
-```bash
-
-export MLFLOW_TRACKING_URI=https://dagshub.com/shiyusun109/wine-quality-prediction.mlflow
-export MLFLOW_TRACKING_USERNAME=shiyusun109
-
-export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
-
-```
 
 
 
@@ -156,11 +147,11 @@ export MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = us-east-1
+    AWS_REGION = us-east-2
 
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
-    ECR_REPOSITORY_NAME = simple-app
+    ECR_REPOSITORY_NAME = mlproj
 
 
 
