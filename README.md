@@ -149,7 +149,7 @@ with mlflow.start_run():
 
     AWS_REGION = us-east-2
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI =  522814737207.dkr.ecr.us-east-2.amazonaws.com
 
     ECR_REPOSITORY_NAME = mlproj
 
