@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shiyu/Desktop/projects/1_MLOPs_projects/wine-quality-prediction/mlruns/0/2b1d5326e45b4dc09aa662ae0b644368/artifacts
+end_time: 1725150462538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b1d5326e45b4dc09aa662ae0b644368
+run_name: serious-shoat-360
+run_uuid: 2b1d5326e45b4dc09aa662ae0b644368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725150460892
+status: 3
+tags: []
+user_id: shiyu
