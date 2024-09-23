@@ -48,7 +48,7 @@ python app.py
 
 Now,
 ```bash
-open up you local host and port
+open up the local host and port
 ```
 
 
@@ -88,7 +88,7 @@ with mlflow.start_run():
 
 	#with specific access
 
-	1. EC2 access : It is virtual machine
+	1. EC2 access: It is virtual machine
 
 	2. ECR: Elastic Container registry to save the docker image in aws
 
@@ -161,6 +161,6 @@ MLflow
 
  - Its Production Grade
  - Trace all of your expriements
- - Logging & tagging your model
+ - Logging & tagging the model
 
 
